@@ -3,6 +3,9 @@ Welcome to the Simple Calculator Website project! This repository contains the s
 
 # Features
 Basic arithmetic operations: addition, subtraction, multiplication, and division.
+<br>
 Responsive design that works on both desktop and mobile devices.
+<br>
 Clear and user-friendly interface.
+<br>
 Immediate feedback and results for each calculation.

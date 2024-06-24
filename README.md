@@ -9,3 +9,5 @@ Responsive design that works on both desktop and mobile devices.
 Clear and user-friendly interface.
 <br>
 Immediate feedback and results for each calculation.
+<br>
+-Shrestha Ghosh
